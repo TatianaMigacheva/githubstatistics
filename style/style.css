@@ -1,0 +1,62 @@
+html {
+  font-family: 'Pathway Gothic One', sans-serif;
+  background-color: #F3F3F3;
+}
+
+ body {
+    background: #F3F3F3;
+ }
+#inputArea {
+	/*margin: 0.5rem;*/
+	/*text-align: left;*/
+	background: #CED0D8;
+	padding: 15px;
+	/*width: 100%;*/
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+
+}
+
+.titleIcon {
+    display: inline-block;
+    vertical-align:middle;
+    padding: 10px;
+}
+h1 {
+    vertical-align:middle;
+    display: inline-block;
+}
+
+.buttons{
+    right: 0px;
+    font-size: 1rem;
+    line-height: 2em;
+    text-align: center;
+    background: #E8B750;
+    color: #666;
+    cursor: pointer;
+    width: 25%;
+    vertical-align:middle;
+}
+
+.buttons:hover {
+    background: #D2A280;
+    color: #fff
+}
+
+.input{
+    /*width: 50%;*/
+    left: 0px;
+    line-height: 2em;
+    font-size: 1rem;
+    margin: 5px;
+    width: 65%;
+    vertical-align:middle;
+}
+
+.copyright {
+   text-align: right;
+   font-size: 0.5rem; 
+}
+
