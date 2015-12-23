@@ -30,3 +30,9 @@ These csv files can be used for generation the following reports by means of Exc
     - Changes by files ("Files Statistics") 
     - Get Real name of submitter with link to User page - ToDO (not implemented) ("PR Statistics")
     - IFD (Inspection Faults Density) by comments number - ToDO (not implemented)
+
+
+Usage:
+
+
+For running the script it's needed to set "token" variable (personal GitHub token)
